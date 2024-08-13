@@ -1,0 +1,14 @@
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.AssemblyInfoInputs.cache
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.AssemblyInfo.cs
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.csproj.CoreCompileInputs.cache
+/home/aaksoy/dotnet-exp/QuicHello/bin/Debug/net9.0/QuicHello
+/home/aaksoy/dotnet-exp/QuicHello/bin/Debug/net9.0/QuicHello.deps.json
+/home/aaksoy/dotnet-exp/QuicHello/bin/Debug/net9.0/QuicHello.runtimeconfig.json
+/home/aaksoy/dotnet-exp/QuicHello/bin/Debug/net9.0/QuicHello.dll
+/home/aaksoy/dotnet-exp/QuicHello/bin/Debug/net9.0/QuicHello.pdb
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.dll
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/refint/QuicHello.dll
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.pdb
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/QuicHello.genruntimeconfig.cache
+/home/aaksoy/dotnet-exp/QuicHello/obj/Debug/net9.0/ref/QuicHello.dll
